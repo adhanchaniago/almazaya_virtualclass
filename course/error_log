@@ -1,0 +1,13 @@
+[18-Mar-2020 13:28:10 Asia/Makassar] Cannot find session record 62a1055db33e409a3d74f4007b2ee606 for user 36, creating new session.
+[30-Mar-2020 07:28:08 Asia/Makassar] Database transaction aborted automatically in /home/almazaya/public_html/virtualclass/course/modedit.php
+[30-Mar-2020 07:32:00 Asia/Makassar] Database transaction aborted automatically in /home/almazaya/public_html/virtualclass/course/modedit.php
+[01-Apr-2020 10:33:20 Asia/Makassar] Cannot find session record ddb1bc9ed08bd4737c9085171efb0db0 for user 203, creating new session.
+[02-Apr-2020 08:20:08 Asia/Makassar] Database transaction aborted automatically in /home/almazaya/public_html/virtualclass/course/modedit.php
+[02-Apr-2020 08:23:07 Asia/Makassar] Database transaction aborted automatically in /home/almazaya/public_html/virtualclass/course/modedit.php
+[07-Apr-2020 12:52:59 Asia/Makassar] Database transaction aborted automatically in /home/almazaya/public_html/virtualclass/course/modedit.php
+[07-Apr-2020 12:57:08 Asia/Makassar] Database transaction aborted automatically in /home/almazaya/public_html/virtualclass/course/modedit.php
+[07-Apr-2020 13:06:25 Asia/Makassar] Database transaction aborted automatically in /home/almazaya/public_html/virtualclass/course/modedit.php
+[07-Apr-2020 13:07:37 Asia/Makassar] Database transaction aborted automatically in /home/almazaya/public_html/virtualclass/course/modedit.php
+[07-Apr-2020 13:16:59 Asia/Makassar] Database transaction aborted automatically in /home/almazaya/public_html/virtualclass/course/modedit.php
+[16-Apr-2020 12:33:58 Asia/Makassar] Database transaction aborted automatically in /home/almazaya/public_html/virtualclass/course/modedit.php
+[15-Jun-2020 10:08:08 Asia/Makassar] Exception ignored in shutdown function tool_log\log\manager::dispose: Call to a member function fetch_assoc() on boolean

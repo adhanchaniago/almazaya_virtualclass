@@ -1,0 +1,10 @@
+[16-Mar-2020 21:02:31 America/New_York] Exception ignored in shutdown function tool_log\log\manager::dispose: Call to a member function fetch_assoc() on boolean
+[16-Mar-2020 21:02:31 America/New_York] Potential coding error - active database transaction detected during request shutdown:
+* line 376 of /question/format.php: call to moodle_database->start_delegated_transaction()
+* line 123 of /question/import.php: call to qformat_default->importprocess()
+
+[19-Mar-2020 10:27:41 Asia/Makassar] Database transaction aborted automatically in /home/almazaya/public_html/virtualclass/question/question.php
+[19-Mar-2020 10:28:25 Asia/Makassar] Database transaction aborted automatically in /home/almazaya/public_html/virtualclass/question/question.php
+[19-Mar-2020 10:29:46 Asia/Makassar] Database transaction aborted automatically in /home/almazaya/public_html/virtualclass/question/question.php
+[19-Mar-2020 10:29:54 Asia/Makassar] Database transaction aborted automatically in /home/almazaya/public_html/virtualclass/question/question.php
+[19-Mar-2020 10:35:05 Asia/Makassar] Database transaction aborted automatically in /home/almazaya/public_html/virtualclass/question/question.php

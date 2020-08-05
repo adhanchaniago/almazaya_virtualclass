@@ -1,0 +1,8 @@
+[07-Apr-2020 13:14:38 Asia/Jakarta] PHP Notice:  Undefined variable: CFG in /home/almazaya/public_html/virtualclass/message/output/jabber/message_output_jabber.php on line 25
+[07-Apr-2020 13:14:38 Asia/Jakarta] PHP Notice:  Trying to get property 'dirroot' of non-object in /home/almazaya/public_html/virtualclass/message/output/jabber/message_output_jabber.php on line 25
+[07-Apr-2020 13:14:38 Asia/Jakarta] PHP Warning:  require_once(/message/output/lib.php): failed to open stream: No such file or directory in /home/almazaya/public_html/virtualclass/message/output/jabber/message_output_jabber.php on line 25
+[07-Apr-2020 13:14:38 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/message/output/lib.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/almazaya/public_html/virtualclass/message/output/jabber/message_output_jabber.php on line 25
+[07-Apr-2020 13:14:40 Asia/Jakarta] PHP Notice:  Undefined variable: CFG in /home/almazaya/public_html/virtualclass/message/output/jabber/message_output_jabber.php on line 25
+[07-Apr-2020 13:14:40 Asia/Jakarta] PHP Notice:  Trying to get property 'dirroot' of non-object in /home/almazaya/public_html/virtualclass/message/output/jabber/message_output_jabber.php on line 25
+[07-Apr-2020 13:14:40 Asia/Jakarta] PHP Warning:  require_once(/message/output/lib.php): failed to open stream: No such file or directory in /home/almazaya/public_html/virtualclass/message/output/jabber/message_output_jabber.php on line 25
+[07-Apr-2020 13:14:40 Asia/Jakarta] PHP Fatal error:  require_once(): Failed opening required '/message/output/lib.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/almazaya/public_html/virtualclass/message/output/jabber/message_output_jabber.php on line 25

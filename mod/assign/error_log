@@ -1,0 +1,1 @@
+[17-Mar-2020 21:12:27 America/New_York] Exception ignored in shutdown function tool_log\log\manager::dispose: Call to a member function fetch_assoc() on boolean

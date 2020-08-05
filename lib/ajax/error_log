@@ -1,0 +1,51 @@
+[17-Mar-2020 02:20:43 America/New_York] Cannot find session record 8dfb10e083e91692d5020692e4ca5406 for user 197, creating new session.
+[17-Mar-2020 21:05:42 America/New_York] Cannot find session record 1c8a1110c0b40a2513ca8d821650875a for user 115, creating new session.
+[17-Apr-2020 11:05:39 Asia/Makassar] Cannot find session record dd64f28fd266f095f9b3e3a23ca981d4 for user 255, creating new session.
+[16-Jun-2020 21:01:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/almazaya/public_html/virtualclass/lib/setuplib.php:2039
+Stack trace:
+#0 /home/almazaya/public_html/virtualclass/lib/setuplib.php(366): bootstrap_renderer::early_error('<p>Error: datab...', 'http://docs.moo...', 'http://virtualc...', Array, '\nError code: db...', 'dbdriverproblem')
+#1 [internal function]: default_exception_handler(Object(dml_exception))
+#2 {main}
+  thrown in /home/almazaya/public_html/virtualclass/lib/setuplib.php on line 2039
+[16-Jun-2020 21:01:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/almazaya/public_html/virtualclass/lib/setuplib.php:2039
+Stack trace:
+#0 /home/almazaya/public_html/virtualclass/lib/setuplib.php(366): bootstrap_renderer::early_error('<p>Error: datab...', 'http://docs.moo...', 'http://virtualc...', Array, '\nError code: db...', 'dbdriverproblem')
+#1 [internal function]: default_exception_handler(Object(dml_exception))
+#2 {main}
+  thrown in /home/almazaya/public_html/virtualclass/lib/setuplib.php on line 2039
+[16-Jun-2020 21:01:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/almazaya/public_html/virtualclass/lib/setuplib.php:2039
+Stack trace:
+#0 /home/almazaya/public_html/virtualclass/lib/setuplib.php(366): bootstrap_renderer::early_error('<p>Error: datab...', 'http://docs.moo...', 'http://virtualc...', Array, '\nError code: db...', 'dbdriverproblem')
+#1 [internal function]: default_exception_handler(Object(dml_exception))
+#2 {main}
+  thrown in /home/almazaya/public_html/virtualclass/lib/setuplib.php on line 2039
+[16-Jun-2020 21:02:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/almazaya/public_html/virtualclass/lib/setuplib.php:2039
+Stack trace:
+#0 /home/almazaya/public_html/virtualclass/lib/setuplib.php(366): bootstrap_renderer::early_error('<p>Error: datab...', 'http://docs.moo...', 'http://virtualc...', Array, '\nError code: db...', 'dbdriverproblem')
+#1 [internal function]: default_exception_handler(Object(dml_exception))
+#2 {main}
+  thrown in /home/almazaya/public_html/virtualclass/lib/setuplib.php on line 2039
+[16-Jun-2020 21:02:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/almazaya/public_html/virtualclass/lib/setuplib.php:2039
+Stack trace:
+#0 /home/almazaya/public_html/virtualclass/lib/setuplib.php(366): bootstrap_renderer::early_error('<p>Error: datab...', 'http://docs.moo...', 'http://virtualc...', Array, '\nError code: db...', 'dbdriverproblem')
+#1 [internal function]: default_exception_handler(Object(dml_exception))
+#2 {main}
+  thrown in /home/almazaya/public_html/virtualclass/lib/setuplib.php on line 2039
+[16-Jun-2020 21:02:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/almazaya/public_html/virtualclass/lib/setuplib.php:2039
+Stack trace:
+#0 /home/almazaya/public_html/virtualclass/lib/setuplib.php(366): bootstrap_renderer::early_error('<p>Error: datab...', 'http://docs.moo...', 'http://virtualc...', Array, '\nError code: db...', 'dbdriverproblem')
+#1 [internal function]: default_exception_handler(Object(dml_exception))
+#2 {main}
+  thrown in /home/almazaya/public_html/virtualclass/lib/setuplib.php on line 2039
+[16-Jun-2020 21:02:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/almazaya/public_html/virtualclass/lib/setuplib.php:2039
+Stack trace:
+#0 /home/almazaya/public_html/virtualclass/lib/setuplib.php(366): bootstrap_renderer::early_error('<p>Error: datab...', 'http://docs.moo...', 'http://virtualc...', Array, '\nError code: db...', 'dbdriverproblem')
+#1 [internal function]: default_exception_handler(Object(dml_exception))
+#2 {main}
+  thrown in /home/almazaya/public_html/virtualclass/lib/setuplib.php on line 2039
+[16-Jun-2020 21:02:38 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function json_encode() in /home/almazaya/public_html/virtualclass/lib/setuplib.php:2039
+Stack trace:
+#0 /home/almazaya/public_html/virtualclass/lib/setuplib.php(366): bootstrap_renderer::early_error('<p>Error: datab...', 'http://docs.moo...', 'http://virtualc...', Array, '\nError code: db...', 'dbdriverproblem')
+#1 [internal function]: default_exception_handler(Object(dml_exception))
+#2 {main}
+  thrown in /home/almazaya/public_html/virtualclass/lib/setuplib.php on line 2039

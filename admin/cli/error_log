@@ -1,0 +1,2 @@
+[17-Mar-2020 00:30:54 America/New_York] Exception ignored in shutdown function Closure::__invoke: Error writing to database
+[17-Mar-2020 03:25:20 America/New_York] Exception ignored in shutdown function Closure::__invoke: Error writing to database
