@@ -9,7 +9,7 @@ $CFG->dblibrary = 'native';
 $CFG->dbhost    = 'localhost';
 $CFG->dbname    = 'virtualclass';
 $CFG->dbuser    = 'root';
-$CFG->dbpass    = 'Arg24JU7UsuyanbE';
+$CFG->dbpass    = '';
 $CFG->prefix    = 'mdlfx_';
 $CFG->dboptions = array (
   'dbpersist' => 0,
@@ -18,8 +18,10 @@ $CFG->dboptions = array (
   'dbcollation' => 'utf8_general_ci',
 );
 
+// $CFG->wwwroot   = 'http://114.7.24.164/almazaya/almazaya_virtualclass';
 $CFG->wwwroot   = 'http://virtualclass.almazayaislamicschool.sch.id';
-$CFG->dataroot  = 'C:\\xampp\\moodledata';
+// $CFG->dataroot  = 'C:\\xampp\\moodledata';
+$CFG->dataroot  = 'C:\\xampp\\htdocs\\almazaya\\moodledata';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;
